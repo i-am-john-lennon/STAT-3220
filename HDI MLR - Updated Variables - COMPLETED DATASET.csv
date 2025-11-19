@@ -1,4 +1,4 @@
-Country,HDI,Gini_Index,Rule_Of_Law_Index,CO2_Emissions,Infant_Mortality_Rate,Sites,Banking_Population,Inflation,Apple_Pay,GDP_per_Capita_Growth,Bandwidth
+Country,HDI,Gini_Index,Rule_Of_Law_Index,CO2_Emissions,Infant_Mortality_Rate,UNESCO_Heritage_Sites,Banking_Population,Inflation,Apple_Pay_Support,GDP_per_Capita_Growth,Bandwidth
 United States,0.938,41.1,0.690535,13.8,6.5,25,Very high,Medium,Yes,Medium,Very High
 China,0.797,35.7,0.312384,9.24,6.2,57,Very high,Low,Yes,High,Very High
 Germany,0.959,31.7,0.861664,7.77,3.7,52,Very high,High,Yes,Very low,Very High
@@ -75,3 +75,4 @@ Croatia,0.889,30.7,0.580162,3.49,4.6,10,Very high,High,Yes,Medium,Very High
 Costa Rica,0.833,50.3,0.772274,1.68,10.5,4,High,Low,Yes,Medium,Very High
 
 Luxembourg,0.922,34.8,0.815118,13.27,2.3,1,Very high,Medium,Yes,Very low,Very High
+
