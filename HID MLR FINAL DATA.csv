@@ -1,0 +1,76 @@
+Country / Territory,HDI,Gini_Index,Rule_Of_Law_Index,CO2_Emissions,Infant_Mortality_Rate,Sites,Banking_Population,Inflation,Apple_Pay,GDP_per_Capita_Growth,Bandwidth
+United States,0.938,41.1,0.690535,13.8,6.5,25,Very high,Medium,Yes,Medium,Very High
+China,0.797,35.7,0.312384,9.24,6.2,57,Very high,Low,Yes,High,Very High
+Germany,0.959,31.7,0.861664,7.77,3.7,52,Very high,High,Yes,Very low,Very High
+Japan,0.925,32.9,0.729939,7.54,2.4,25,Very high,Medium,Yes,Low,Very High
+India,0.685,35.7,0.570713,2.07,27.7,42,Very high,High,No,High,Very High
+United Kingdom,0.946,35.1,0.81097,5.01,4.5,33,Very high,High,Yes,Very low,Very High
+France,0.922,32.4,0.723848,4.36,4.3,52,Very high,Medium,Yes,Low,Very High
+Italy,0.915,35.2,0.712031,5.18,2.8,59,Very high,High,Yes,Low,Very High
+Russia,0.832,36,0.320345,14.4,4.5,31,Very high,High,No,Medium,Very High
+Canada,0.939,33.3,0.823906,14.35,5.1,22,Very high,Medium,Yes,Very low,Very High
+Brazil,0.786,52,0.507783,2.16,14.4,23,High,Medium,Yes,Medium,Very High
+Spain,0.918,34.9,0.718317,4.92,3.1,50,Very high,Medium,Yes,Low,Very High
+Mexico,0.789,43.5,0.442536,3.53,12.5,35,High,High,Yes,Medium,Very High
+South Korea,0.937,31.4,0.706538,11.62,2.8,16,Very high,Medium,Yes,Low,Very High
+Australia,0.958,34.3,0.817145,14.6,3.7,20,Very high,High,Yes,Low,Very High
+Turkey,0.853,44.4,0.284867,4.17,12.8,21,High,Very high,No,Medium,Very High
+Indonesia,0.728,37.9,0.660784,2.3,20.6,10,Moderate,Medium,No,Medium,Very High
+Netherlands,0.955,29.2,0.849675,7.63,4,13,Very high,Medium,Yes,Very low,Very High
+Saudi Arabia,0.938,45.9,0.601152,18.14,6.2,7,High,Medium,Yes,Very low,Very High
+Poland,0.906,28.5,0.532463,7.63,4.4,17,High,High,Yes,Low,Very High
+Switzerland,0.974,33.1,0.888,3.58,3.9,13,Very high,Medium,Yes,Very low,Very High
+Slovenia,0.931,24.6,0.69,5.81,1.8,5,Very high,Medium,Yes,Medium,Very High
+Belgium,0.951,27.2,0.820948,7.78,3.6,16,Very high,Medium,Yes,Low,Very High
+Ireland,0.949,31.4,0.834674,7.48,3.8,2,Very high,High,Yes,Very low,Very High
+Argentina,0.865,42,0.562959,4.07,9.6,12,High,Very high,Yes,Very low,Very High
+Sweden,0.959,30,0.860634,3.41,2.5,15,Very high,High,Yes,Very low,Very High
+Israel,0.919,39,0.822,5.49,3.4,9,Very high,Medium,Yes,Very low,Very High
+Singapore,0.946,45.9,0.670972,7.96,2.1,1,Very high,Medium,Yes,Very low,Very High
+United Arab Emirates,0.941,26,0.573479,21.31,5,1,Very high,Low,Yes,Very low,Very High
+Austria,0.932,30.2,0.838069,6.85,3.1,12,Very high,High,Yes,Very low,Very High
+Thailand,0.798,36.4,0.453255,3.57,9.2,7,High,High,No,Medium,Very High
+Norway,0.972,27.6,0.919657,6.15,2.4,8,Very high,High,Yes,Very low,Very High
+Philippines,0.721,42.3,0.473449,1.53,26.9,6,Moderate,High,No,Medium,Very High
+Vietnam,0.766,35.7,0.45012,3.46,20,8,High,Medium,Yes,Medium,Very High
+Bangladesh,0.685,32.4,0.373318,0.51,30.6,3,Low,High,No,Medium,Very High
+Malaysia,0.819,41.2,0.571233,7.17,8.1,4,Very high,Medium,Yes,Medium,Very High
+Denmark,0.962,28.3,0.949411,4.87,3.4,11,Very high,Medium,Yes,Low,Very High
+Colombia,0.788,55,0.495705,1.89,12,9,Very high,High,Yes,Very low,Very High
+Hong Kong,0.955,38.4,0.569893,5.66,1.6,0,Very high,Medium,Yes,Low,Very High
+South Africa,0.741,63,0.617627,6.83,34.7,10,High,High,Yes,Very low,Very High
+Romania,0.845,28.6,0.610876,3.31,6.6,9,High,High,Yes,Medium,Very High
+Pakistan,0.544,31.6,0.470926,0.93,58.5,6,Extremely low,Very high,No,Very low,Very High
+Czech Republic,0.915,25.3,0.737436,8.22,2.6,17,High,High,Yes,Very low,Very High
+Iran,0.799,40,0.324364,7.29,11.8,27,High,Very high,No,Medium,Very High
+Egypt,0.754,31.5,0.243727,2.18,17.5,7,Low,Very high,No,Medium,Very High
+Chile,0.878,44.9,0.712004,4.57,7.2,7,High,High,Yes,Very low,Very High
+Portugal,0.894,35.5,0.75904,4.21,3.2,17,Very high,Medium,Yes,Low,Very High
+Peru,0.794,40.4,0.585818,1.67,15.8,13,High,High,Yes,Very low,Very High
+Finland,0.948,27.3,0.917828,7.83,2.3,7,Very high,High,Yes,Very low,Very High
+Kazakhstan,0.837,27.5,0.445787,13.46,9.6,6,High,High,Yes,Medium,Very High
+Algeria,0.763,27.6,0.465832,4.11,22,7,Extremely low,High,No,Medium,Very High
+Nigeria,0.561,35.1,0.495107,0.67,104.9,2,Moderate,Very high,No,Low,Very High
+Greece,0.908,32.4,0.673264,5.96,3.7,19,High,Medium,Yes,Medium,Very High
+Iraq,0.695,29.5,0.398721,4.62,22.6,6,Moderate,Medium,No,Very low,Very High
+New Zealand,0.938,36.2,0.854325,7.49,4.7,3,Very high,High,Yes,Very low,Very High
+Hungary,0.874,30,0.367132,4.22,3.8,8,High,Very high,Yes,Very low,Very High
+Qatar,0.886,41.1,0.742,30.28,6,1,Very high,Medium,Yes,Low,Very High
+Ukraine,0.779,26.6,0.472316,3.34,8.1,8,Very high,High,Yes,Very high,Very High
+Morocco,0.711,39.5,0.51288,1.77,16.6,9,Low,High,Yes,Medium,Very High
+Kuwait,0.852,36,0.550945,22.43,8.8,0,Very high,Medium,Yes,Very low,Very High
+Slovakia,0.884,23.2,0.67367,5.81,6.1,8,Very high,High,Yes,Medium,Very High
+Uzbekistan,0.741,34,0.376355,3.85,13.3,7,Low,High,No,Medium,Very High
+Kenya,0.628,40.8,0.495896,0.41,39.9,7,High,High,No,Medium,Very High
+Ecuador,0.777,45.5,0.491785,2.15,13.1,5,High,Medium,No,Low,Very High
+Dominican Republic,0.776,43.7,0.507973,2.22,31.4,1,High,Medium,No,Low,Very High
+Bulgaria,0.845,40.1,0.513339,4.17,6.1,10,Very high,High,Yes,Medium,Very High
+Puerto Rico,0.868,49.7,0.49,4.31,10.5,0,High,Medium,No,Low,Very High
+Guatemala,0.662,48.9,0.494589,1.02,21.4,4,Low,High,Yes,Low,Very High
+Angola,0.616,51.3,0.407324,0.69,64,1,Extremely low,High,No,Very low,High
+Ghana,0.628,43.5,0.657974,0.49,37.1,2,Low,Very high,No,Low,Very High
+Ethiopia,0.497,35,0.348282,0.15,46.5,11,Extremely low,Very high,No,Medium,Low
+Oman,0.858,36,0.61,13.01,10.4,5,High,Low,No,Very low,Very High
+Croatia,0.889,30.7,0.580162,3.49,4.6,10,Very high,High,Yes,Medium,Very High
+Costa Rica,0.833,50.3,0.772274,1.68,10.5,4,High,Low,Yes,Medium,Very High
+Luxembourg,0.922,34.8,0.815118,13.27,2.3,1,Very high,Medium,Yes,Very low,Very High
